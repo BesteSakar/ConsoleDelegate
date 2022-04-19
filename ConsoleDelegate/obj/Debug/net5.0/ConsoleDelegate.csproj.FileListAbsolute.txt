@@ -1,0 +1,16 @@
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.exe
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.deps.json
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.runtimeconfig.json
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.runtimeconfig.dev.json
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.dll
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.pdb
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.AssemblyInfoInputs.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.AssemblyInfo.cs
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.dll
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\refint\ConsoleDelegate.dll
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.pdb
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.genruntimeconfig.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsoleDelegate\obj\Debug\net5.0\ref\ConsoleDelegate.dll

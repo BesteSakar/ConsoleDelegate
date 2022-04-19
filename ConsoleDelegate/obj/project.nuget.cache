@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzBsjfCjXWv6RPdrmJW/JGIkpd3vnWbDUyWI+rrqCJwurcfVGUGPnXi9WHLa2chv8T2A3LLDZVls3Fj4ymntgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beste\\source\\repos\\tcKimlikDogrulama\\ConsoleDelegate\\ConsoleDelegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beste\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
